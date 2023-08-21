@@ -1,0 +1,135 @@
+body{
+    background-color:#454545;
+    background-image: url("dslr1.jpg");
+}
+#Header{
+    width: 1024px;
+    height: 150px;
+    border: 2px solid;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color: #097719;
+    font-size: 100px;
+    background-image: url("images.jpg");
+    color: #457745;
+    border-color: black;
+    text-align: center;
+}
+#NavigationBar{
+    width: 1024px;
+    height: 150px;
+    border: 2px solid;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color:#097719;
+}
+#Slider{
+    width: 1024px;
+    height: 720px;
+    border: 2px solid;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color:#035207;
+    background-image: url("cameraworld.jpeg");
+}
+#Main{
+    width: 1024px;
+    height: 1665px;
+    border: 2px solid;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color:#083500;
+}
+#Footer{
+    width: 1024px;
+    height: 150px;
+    border: 2px solid;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color:#457745;
+}
+#Button{
+    width: 80px;
+    height: 10px;
+    border: 2px solid;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 60px;
+}
+#Aside{
+    width: 370px;
+    height: 800px;
+    border: 2px solid;
+    margin: 0 solid;
+    margin-top: 5px;
+    margin-left: 2px;
+    background-color: #097719;
+    float: left;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+    line-height: 20px;
+    padding: 10px;
+}
+#Submain{
+    width: 600px;
+    height: 800px;
+    border: 2px solid;
+    margin: 0 solid;
+    margin-top: 5px;
+    margin-left: 2px;
+    background-color: #097719;
+    float: left;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+    line-height: 20px;
+    padding: 10px;
+    background-image: url("photo1.jpg");
+}
+#Aside1{
+    width: 370px;
+    height: 800px;
+    border: 2px solid;
+    margin: 0 solid;
+    margin-top: 5px;
+    margin-left: 2px;
+    background-color: #097719;
+    float: left;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+    line-height: 20px;
+    padding: 10px;
+    background-image: url("photo4.jpg");
+}
+#Submain1{
+    width: 600px;
+    height: 800px;
+    border: 2px solid;
+    margin: 0 solid;
+    margin-top: 5px;
+    margin-left: 2px;
+    background-color: #097719;
+    float: left;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+    line-height: 20px;
+    padding: 10px;
+}
